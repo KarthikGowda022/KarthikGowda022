@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KarthikGowda022
+- 👀 I’m into iOS and MacOSX app development ...
+- 🌱 I’m currently learning ML and SwiftUI...
+- 📫 How to reach me ...
+
+<!---
+KarthikGowda022/KarthikGowda022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
